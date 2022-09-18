@@ -14,7 +14,7 @@
  {
   "cmd" : ["python3", "-u", "$file"],
  }
- 
+ ``` 
  -  这段代码让 Sublime Text 使用python3 来运行 Python程序 将文件保存到 Sublime Text 默认打开的文件夹中  命名为 Python3.sublime-build
  
  ##### 运行python程序
