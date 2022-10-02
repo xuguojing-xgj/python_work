@@ -1,8 +1,8 @@
-##### python_work 一个简单的python 文件
-- 在window 上安装python https://www.python.org/downloads/ 官网地址
+##### python_work 一个简单的 Python 文件
+- 在window 上安装Python https://www.python.org/downloads/ 官网地址
 - 安装完成之后  右键 '在此打开命令窗口' 输入python(小写) 如果出现了 >>> (提示符)  代表安装成功
 ##### 安装 Sublime Text
-- 推荐python 文件编译器 Sublime Text 
+- 推荐 Python 文件编译器 Sublime Text 
 - 'Sublime Text' 是一款简单的文本编译器, 可以在现在任何操作系统中安装(Linux, window, mac) Sublime Text 几乎可以执行所有程序(脚本)
 - 下载安装 Sublime Text http://www.sublimetext.com/download_thanks?target=win-x64
 ##### 配置Sublime Text 来执行Python 程序
